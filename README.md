@@ -2,7 +2,7 @@
 
 This repo has some crazy ideas that could become, some day, in awesome projects.
 
-* ## Facebook chat cli
+## Facebook chat cli
 
 
 ### Description:
@@ -19,13 +19,13 @@ That improve the terminal experience, also there are some facebook messenger clo
 
 So, the idea is simple, clone the facebook chat on the terminal, so there is no need of a browser.
 
-* ## Soundcloud cli (vplayer)
+## Soundcloud cli (vplayer)
 
 ### Description:
 
 Similar to facebook chat cli, but easier because there is a [public API](https://developers.soundcloud.com/docs/api/guide) for the souncloud app. Some people already made some [GUI app](https://github.com/Soundnode/soundnode-app) with it
 
-* ## Github chrome extension
+## Github chrome extension
 
 ### Description:
 
