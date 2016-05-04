@@ -1,3 +1,13 @@
+> Don't forget these ideas
+
+* [Ideas](#ideas)
+  * [Facebook chat cli](#facebook-chat-cli)
+  * [Soundcloud cli](#soundcloud-cli)
+  * [Github chrome extension](#github-chrome-extension)
+  * [Mobilify](#mobilify)
+  * [Social coding](#social-coding)
+* [Summary](#summary)
+
 # Ideas
 
 This repo has some crazy ideas that could become, some day, in awesome projects.
@@ -19,7 +29,7 @@ That improve the terminal experience, also there are some facebook messenger clo
 
 So, the idea is simple, clone the facebook chat on the terminal, so there is no need of a browser.
 
-## Soundcloud cli (vplayer)
+## Soundcloud cli
 
 ### Description:
 
@@ -47,3 +57,24 @@ Github and Stackoverflow are some of the most popular dev sites/tools. They have
 2. They are social!
 
 So, it would be awesome to have some feed of your social coding, for the cli or as an embedded html (to add to portfolio for example)
+
+# Summary
+
+Here is a quick and highly opinionated summary about the ideas, showing three metrics from 1 to 10, except for the dificulty that goes from 1 to 5. The priority is the sum of the three metrics, and give us the order of development of the ideas. 
+
+| Idea              | Difficulty | Fun | Useful | Priority |
+| ----------------- | ---------- | --- | ------ | -------- |
+| Facebook chat cli | 5          | 8   | 5      | 18       |
+| Soundcloud cli    | 4          | 10  | 10     | 24       |
+| Github extension  | 2          | 5   | 10     | 17       |
+| Mobilify          | 5          | 5   | 7      | 17       |
+| Social coding     | 3          | 8   | 5      | 15       |
+
+So, the order would be 
+
+1. **Soundcloud cli**
+2. **Facebook chat cli**
+3. **Github extension**
+4. **Mobilify**
+5. **Social coding**
+
