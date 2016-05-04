@@ -36,6 +36,13 @@ So, the idea is simple, clone the facebook chat on the terminal, so there is no 
 
 Similar to facebook chat cli, but easier because there is a [public API](https://developers.soundcloud.com/docs/api/guide) for the souncloud app. Some people already made some [GUI app](https://github.com/Soundnode/soundnode-app) with it
 
+### References:
+
+* http://askubuntu.com/questions/82605/how-to-play-music-in-terminal
+* http://askubuntu.com/questions/115369/how-to-play-mp3-files-from-the-command-line
+* http://askubuntu.com/questions/193737/how-to-listen-radio-from-terminal
+* http://www.unixmen.com/how-to-play-music-from-command-line-terminal/
+
 ## Github chrome extension
 
 ### Description:
