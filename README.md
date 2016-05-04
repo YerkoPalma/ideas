@@ -36,3 +36,14 @@ There are already some github chrome extensions, but this wouls be only to (bett
 ### Description:
 
 Heavily inspired by the awesome [nativifier](https://github.com/jiahaog/nativefier). Basically, the same but to make mobile apps from a web page. It would use cordova to take the html, js and css and convert it in a mobile app. It would be useful for awesome pages that doesn't have a mobile app, but have awesome mobile sites, for example, Github.
+
+## Social coding
+
+### Description:
+
+Github and Stackoverflow are some of the most popular dev sites/tools. They have two big things in common:
+
+1. A public API
+2. They are social!
+
+So, it would be awesome to have some feed of your social coding, for the cli or as an embedded html (to add to portfolio for example)
