@@ -6,6 +6,7 @@
   * [Github chrome extension](#github-chrome-extension)
   * [Mobilify](#mobilify)
   * [Social coding](#social-coding)
+  * [Holographic spaceinvaders](#holographic-spaceinvaders)
 * [Summary](#summary)
 
 # Ideas
@@ -58,21 +59,34 @@ Github and Stackoverflow are some of the most popular dev sites/tools. They have
 
 So, it would be awesome to have some feed of your social coding, for the cli or as an embedded html (to add to portfolio for example)
 
+## Holographic spaceinvaders
+
+### description:
+
+Everyone knows the Spaceinvaders game. Seeing this two projects.
+
+* https://github.com/feross/magickeyboard.io
+* https://github.com/philippedubost/keybright
+ 
+I think that an awesome new version of the popular game could be made. A web version and an awesome holographic version.
+
 # Summary
 
 Here is a quick and highly opinionated summary about the ideas, showing three metrics from 1 to 10, except for the dificulty that goes from 1 to 5. The priority is the sum of the three metrics, and give us the order of development of the ideas. 
 
-| Idea              | Difficulty | Fun | Useful | Priority |
-| ----------------- | ---------- | --- | ------ | -------- |
-| Facebook chat cli | 5          | 8   | 5      | 18       |
-| Soundcloud cli    | 4          | 10  | 10     | 24       |
-| Github extension  | 2          | 5   | 10     | 17       |
-| Mobilify          | 5          | 5   | 7      | 17       |
-| Social coding     | 3          | 8   | 5      | 15       |
+| Idea                      | Difficulty | Fun | Useful | Priority |
+| ------------------------- | ---------- | --- | ------ | -------- |
+| Facebook chat cli         | 5          | 8   | 5      | 18       |
+| Soundcloud cli            | 4          | 10  | 10     | 24       |
+| Github extension          | 2          | 5   | 10     | 17       |
+| Mobilify                  | 5          | 5   | 7      | 17       |
+| Social coding             | 3          | 8   | 5      | 15       |
+| Holographic Spaceinvaders | 5          | 10  | 3      | 19       |
 
 So, the order would be 
 
 1. **Soundcloud cli**
+2. **Holographic Spaceinvaders**
 2. **Facebook chat cli**
 3. **Github extension**
 4. **Mobilify**
