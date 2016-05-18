@@ -7,6 +7,7 @@
   * [Mobilify](#mobilify)
   * [Social coding](#social-coding)
   * [Holographic spaceinvaders](#holographic-spaceinvaders)
+  * [Config manager](#config-manager)
 * [Summary](#summary)
 
 # Ideas
@@ -77,6 +78,12 @@ Everyone knows the Spaceinvaders game. Seeing this two projects.
  
 I think that an awesome new version of the popular game could be made. A web version and an awesome holographic version.
 
+## Config manager
+
+### description:
+
+Many npm packages use config files, like `eslint`, `babel`, `flow`, etc. So it would be useful to have a single json file to manage all of that config files.
+
 # Summary
 
 Here is a quick and highly opinionated summary about the ideas, showing three metrics from 1 to 10, except for the dificulty that goes from 1 to 5. The priority is the sum of the three metrics, and give us the order of development of the ideas. 
@@ -89,10 +96,12 @@ Here is a quick and highly opinionated summary about the ideas, showing three me
 | Mobilify                  | 5          | 5   | 7      | 17       |
 | Social coding             | 3          | 8   | 5      | 15       |
 | Holographic Spaceinvaders | 5          | 10  | 3      | 19       |
+| Config manager            | 4          | 7   | 7      | 18       |
 
 So, the order would be 
 
 1. **Soundcloud cli**
+2. **Config manager**
 2. **Holographic Spaceinvaders**
 2. **Facebook chat cli**
 3. **Github extension**
