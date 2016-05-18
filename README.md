@@ -16,6 +16,7 @@ This repo has some crazy ideas that could become, some day, in awesome projects.
 
 ## Facebook chat cli
 
+> Facebook chat from the command line
 
 ### Description:
 
@@ -33,6 +34,8 @@ So, the idea is simple, clone the facebook chat on the terminal, so there is no 
 
 ## Soundcloud cli
 
+> Soundcloud client from the terminal
+
 ### Description:
 
 Similar to facebook chat cli, but easier because there is a [public API](https://developers.soundcloud.com/docs/api/guide) for the souncloud app. Some people already made some [GUI app](https://github.com/Soundnode/soundnode-app) with it
@@ -46,17 +49,23 @@ Similar to facebook chat cli, but easier because there is a [public API](https:/
 
 ## Github chrome extension
 
+> Manage your github stars by tags
+
 ### Description:
 
-There are already some github chrome extensions, but this wouls be only to (better) manage github stars, as Github only group by langague.
+There are already some github chrome extensions, but this wouls be only to (better) manage github stars, as Github only group by langague. Check [astralapp](http://astralapp.com/)
 
 ## Mobilify
+
+> Convert any web page into a mobile app
 
 ### Description:
 
 Heavily inspired by the awesome [nativifier](https://github.com/jiahaog/nativefier). Basically, the same but to make mobile apps from a web page. It would use cordova to take the html, js and css and convert it in a mobile app. It would be useful for awesome pages that doesn't have a mobile app, but have awesome mobile sites, for example, Github.
 
 ## Social coding
+
+> Let others developers know what you are coding
 
 ### Description:
 
@@ -69,6 +78,8 @@ So, it would be awesome to have some feed of your social coding, for the cli or 
 
 ## Holographic spaceinvaders
 
+> Futuristic space invaders
+
 ### description:
 
 Everyone knows the Spaceinvaders game. Seeing this two projects.
@@ -79,6 +90,8 @@ Everyone knows the Spaceinvaders game. Seeing this two projects.
 I think that an awesome new version of the popular game could be made. A web version and an awesome holographic version.
 
 ## Config manager
+
+> Centralized manager for config files of npm modules
 
 ### description:
 
