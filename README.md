@@ -8,6 +8,7 @@
   * [Social coding](#social-coding)
   * [Holographic spaceinvaders](#holographic-spaceinvaders)
   * [Config manager](#config-manager)
+  * [Bachelet bot](#bachelet-bot)
 * [Summary](#summary)
 
 # Ideas
@@ -97,6 +98,10 @@ I think that an awesome new version of the popular game could be made. A web ver
 
 Many npm packages use config files, like `eslint`, `babel`, `flow`, etc. So it would be useful to have a single json file to manage all of that config files.
 
+## Bachelet bot
+
+> Talk with Bachelet
+
 # Summary
 
 Here is a quick and highly opinionated summary about the ideas, showing three metrics from 1 to 10, except for the dificulty that goes from 1 to 5. The priority is the sum of the three metrics, and give us the order of development of the ideas. 
@@ -110,6 +115,7 @@ Here is a quick and highly opinionated summary about the ideas, showing three me
 | Social coding             | 3          | 8   | 5      | 15       |
 | Holographic Spaceinvaders | 5          | 10  | 3      | 19       |
 | Config manager            | 4          | 7   | 7      | 18       |
+| Bachelet bot              | 4          | 10  | 1      | 15       |
 
 So, the order would be 
 
@@ -120,4 +126,5 @@ So, the order would be
 3. **Github extension**
 4. **Mobilify**
 5. **Social coding**
+6. **Bachelet bot**
 
