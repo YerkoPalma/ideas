@@ -9,6 +9,7 @@
   * [Holographic spaceinvaders](#holographic-spaceinvaders)
   * [Config manager](#config-manager)
   * [Bachelet bot](#bachelet-bot)
+  * [Markdown extension API](#markdown-extension-api)
 * [Summary](#summary)
 
 # Ideas
@@ -102,6 +103,14 @@ Many npm packages use config files, like `eslint`, `babel`, `flow`, etc. So it w
 
 > Talk with Bachelet
 
+## Markdown extension API
+
+> Library to extends markdown language
+
+### Description
+
+Library to extend regular markdown as you want, similar to what Github flavored Markdown does. Useful to add Math formulas, charts, graphics or whatever could be rendered to html.
+
 # Summary
 
 Here is a quick and highly opinionated summary about the ideas, showing three metrics from 1 to 10, except for the dificulty that goes from 1 to 5. The priority is the sum of the three metrics, and give us the order of development of the ideas. 
@@ -116,6 +125,7 @@ Here is a quick and highly opinionated summary about the ideas, showing three me
 | Holographic Spaceinvaders | 5          | 10  | 3      | 19       |
 | Config manager            | 4          | 7   | 7      | 18       |
 | Bachelet bot              | 4          | 10  | 1      | 15       |
+| Markdown extension API    | 3          | 7   | 7      | 17       |
 
 So, the order would be 
 
@@ -123,6 +133,7 @@ So, the order would be
 2. **Config manager**
 2. **Holographic Spaceinvaders**
 2. **Facebook chat cli**
+3. **Markdown extension API**
 3. **Github extension**
 4. **Mobilify**
 5. **Social coding**
