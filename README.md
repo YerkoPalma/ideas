@@ -10,6 +10,7 @@
   * [Config manager](#config-manager)
   * [Bachelet bot](#bachelet-bot)
   * [Markdown extension API](#markdown-extension-api)
+  * [Inclusive linter](#inclusive-linter)
 * [Summary](#summary)
 
 # Ideas
@@ -111,6 +112,14 @@ Many npm packages use config files, like `eslint`, `babel`, `flow`, etc. So it w
 
 Library to extend regular markdown as you want, similar to what Github flavored Markdown does. Useful to add Math formulas, charts, graphics or whatever could be rendered to html.
 
+## Inclusive linter
+
+> Drop gender to the trash
+
+### Description
+
+Similar to what eslint does, this would check a piece of text to find uninclusive parts in different languages. For example, replaces all the `he` for `he/she`, or in spanish replace `amigos` with `amigxs` or `amig@s` allowing to configure the inclusive char.
+
 # Summary
 
 Here is a quick and highly opinionated summary about the ideas, showing three metrics from 1 to 10, except for the dificulty that goes from 1 to 5. The priority is the sum of the three metrics, and give us the order of development of the ideas. 
@@ -126,12 +135,14 @@ Here is a quick and highly opinionated summary about the ideas, showing three me
 | Config manager            | 4          | 7   | 7      | 18       |
 | Bachelet bot              | 4          | 10  | 1      | 15       |
 | Markdown extension API    | 3          | 7   | 7      | 17       |
+| Inclusive linter          | 5          | 5   | 8      | 18       |
 
 So, the order would be 
 
 1. **Soundcloud cli**
 2. **Config manager**
 2. **Holographic Spaceinvaders**
+3. **Inclusive linter**
 2. **Facebook chat cli**
 3. **Markdown extension API**
 3. **Github extension**
