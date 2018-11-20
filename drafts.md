@@ -1,8 +1,5 @@
 - Antifa-licenses
 - 1312 alert
-- runaway
-  - Get your data
-  - Keep alert (fb bot)
 - Bachillerato
 - Blocks
 - Router component
