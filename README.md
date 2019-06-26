@@ -16,6 +16,6 @@
 
 > Abandona el barco, no porque se hunda, sino para que se hunda.
 
-# [BancoEstado refined](/bancoestado-refined.md)
+## [BancoEstado refined](/bancoestado-refined.md)
 
 > Better UX for www.bancoestado.cl
