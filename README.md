@@ -19,3 +19,7 @@
 ## [BancoEstado refined](/bancoestado-refined.md)
 
 > Better UX for www.bancoestado.cl
+
+## [P2P Democracy](/p2p-democracy.md)
+
+> Distributed and participative (real) democracy
