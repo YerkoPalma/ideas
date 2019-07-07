@@ -23,3 +23,7 @@
 ## [P2P Democracy](/p2p-democracy.md)
 
 > Distributed and participative (real) democracy
+
+## [Task runner](/task-runner.md)
+
+> Simple menubar task runner
